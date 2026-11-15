@@ -1,0 +1,10 @@
+{
+  "name": "Credroll Credit Union - Online Banking",
+  "description": "Credroll Credit Union secure online banking application featuring instant fund transfers, biometric authentication registration, interactive transaction history, and debit card management for Amelia Robert.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
